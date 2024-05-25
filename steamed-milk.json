@@ -296,9 +296,9 @@
             "#928374"
         ],
         "INTERACTIVE_NORMAL": [
-            "#DDA671",
+            "#F3E0DA",
             "#665c54",
-            "#DDA671"
+            "#F3E0DA"
         ],
         "LOGO_PRIMARY": [
             "#83a598",
@@ -316,9 +316,9 @@
             "#000000"
         ],
         "REDESIGN_BUTTON_OVERLAY_PRESSED_BACKGROUND": [
-            "#DDA671",
+            "#F3E0DA",
             "#665c54",
-            "#DDA671"
+            "#F3E0DA"
        ],
         "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
             "#524E4B",
@@ -326,14 +326,14 @@
             "#000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_TEXT": [
-            "#DDA671",
+            "#F3E0DA",
             "#665c54",
-            "#DDA671"
+            "#F3E0DA"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
-            "#DDA671",
+            "#F3E0DA",
             "#665c54",
-            "#DDA671"
+            "#F3E0DA"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#524E4B",
