@@ -211,9 +211,9 @@
             "#F3E0DA"
         ],
         "HEADER_SECONDARY": [
-            "#fabd2f",
-            "#b57614",
-            "#fabd2f"
+            "#F3E0DA",
+            "#524E4B",
+            "#F3E0DA"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#3E3A36",
@@ -406,13 +406,13 @@
             "#F3E0DA"
         ],
         "TEXT_MUTED": [
-            "#7c6f64",
+            "#B69F98",
             "#a89984",
-            "#7c6f64"
+            "#B69F98"
         ],
         "TEXT_NORMAL": [
             "#F3E0DA",
-            "#3E3A36",
+            "#524E4B",
             "#F3E0DA"
         ],
         "TEXT_POSITIVE": [
