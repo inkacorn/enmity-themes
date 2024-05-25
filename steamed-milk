@@ -1,6 +1,7 @@
 {
     "name": "Steamed Milk",
-    "description": "Theme based on Bliss by Superuser": [
+    "description": "Theme based on Bliss by Superuser",
+    "authors": [
         {
             "name": "inkacorn",
             "id": "841429574926729246"
