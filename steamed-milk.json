@@ -18,10 +18,10 @@
             "#0000FF"
         ],
         "TEXT_NORMAL": [
-            "#0000FF"
+            "#00FF00"
         ],
         "TEXT_MUTED": [
-            "#0000FF"
+            "#00FF00"
         ],
         "INTERACTIVE_NORMAL": [
             "#0000FF"
@@ -91,16 +91,16 @@
             "#0000FF"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#0000FF"
+            "#00FF00"
         ],
         "CHANNELS_DEFAULT": [
             "#0000FF"
         ],
         "TEXT_LINK": [
-            "#0000FF"
+            "#00FF00"
         ],
         "TEXT_DANGER": [
-            "#0000FF"
+            "#00FF00"
         ],
         "KEYBOARD": [
             "#0000FF"
