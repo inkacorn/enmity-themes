@@ -17,19 +17,19 @@
             "#F3E0DA"
         ],
         "TEXT_NORMAL": [
-            "#B69F98"
+            "#957261"
         ],
         "TEXT_MUTED": [
             "#B69F98"
         ],
         "INTERACTIVE_NORMAL": [
-            "#EFDFD7"
+            "#957261"
         ],
         "INTERACTIVE_HOVER": [
             "#503E38"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#EFDFD7"
+            "#957261"
         ],
         "INTERACTIVE_MUTED": [
             "#957261"
