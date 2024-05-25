@@ -1,6 +1,8 @@
 {
     "name": "Steamed Milk",
-    "description": "Theme based on Bliss by Superuser",
+    "version": "1.0",
+    "description": "A test theme because I’m ASS at making themes lol.",
+    "color": "#eed1c7",
     "authors": [
         {
             "name": "inkacorn",
@@ -100,13 +102,13 @@
             "#503E38"
         ],
         "KEYBOARD": [
-            "#110D0A"
+            "#FF0000"
         ],
         "CHANNEL_ICON": [
             "#EFDFD7"
         ],
         "CHAT_BACKGROUND": [
-            "#110D0A"
+            "#303030"
         ]
     },
     "rawColors": {
