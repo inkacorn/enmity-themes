@@ -2,7 +2,7 @@
     "name": "Steamed Milk",
     "version": "1.0",
     "description": "A test theme because I’m ASS at making themes lol.",
-    "color": "#eed1c7",
+    "color": "#DDA671",
     "authors": [
         {
             "name": "inkacorn",
@@ -35,16 +35,16 @@
             "#957261"
         ],
         "BACKGROUND_PRIMARY": [
-            "#303030"
+            "#524E4B"
         ],
         "BACKGROUND_SECONDARY": [
             "#303030"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#504D4D"
+            "#524E4B"
         ],
         "BACKGROUND_TERTIARY": [
-            "#303030"
+            "#DDA671"
         ],
         "BACKGROUND_ACCENT": [
             "#503E38"
