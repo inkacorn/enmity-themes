@@ -12,7 +12,7 @@
     ],
 	"spec": 2,
 	"semanticColors": {
-		"KEYBOARD": ["#1e1e2e", "#1e1e2e"],
+		"KEYBOARD": ["#645F5B", "#3E3A36"],
 		"ACTIVITY_CARD_BACKGROUND": ["#1e1e2e", "#1e1e2e"],
 		"BACKGROUND_ACCENT": ["#181825", "#181825"],
 		"BACKGROUND_FLOATING": ["#181825", "#181825"],
