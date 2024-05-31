@@ -95,16 +95,16 @@
 			"BRAND": "#F3E0DA",
 			"PRIMARY": "#645F5B",
 			"PRIMARY_100": "#F3E0DA",
-			"PRIMARY_300": "#cdd6f4",
-			"PRIMARY_360": "#cba6f7",
-			"PRIMARY_400": "#7f849c",
-			"PRIMARY_500": "#313244",
-			"PRIMARY_600": "#313244",
-			"PRIMARY_630": "#45475a",
-			"PRIMARY_700": "#313244",
-			"PRIMARY_800": "#1e1e2e",
-			"PRIMARY_900": "#181825",
-			"WHITE": "#cdd6f4"
+			"PRIMARY_300": "#F3E0DA",
+			"PRIMARY_360": "#F3E0DA",
+			"PRIMARY_400": "#957261",
+			"PRIMARY_500": "#3E3A36",
+			"PRIMARY_600": "#3E3A36",
+			"PRIMARY_630": "#957261",
+			"PRIMARY_700": "#3E3A36",
+			"PRIMARY_800": "#524E4B",
+			"PRIMARY_900": "#3E3A36",
+			"WHITE": "#F3E0DA"
 		},
 		"unsafe_colors": {
 			"CHAT_GREY": "#313244"
