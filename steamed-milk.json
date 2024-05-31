@@ -31,23 +31,40 @@
 		"INTERACTIVE_NORMAL": ["#000000", "#FFFFFF"],
 		"TEXT_LINK": ["#000000", "#FFFFFF"],
 		"TEXT_MUTED": ["#000000", "#FFFFFF"],
-		"TEXT_NORMAL": ["#000000", "#FFFFFF"]
+		"TEXT_NORMAL": ["#000000", "#FFFFFF"],
+		"CHANNEL_ICON": ["#FF0000", "#FFFFFF"]
 	},
 	"rawColors": {
-		"PRIMARY": "#FFFFFF",
+		"PRIMARY": "#000000",
 		"PRIMARY_100": "#FFFFFF",
-		"PRIMARY_300": "#FFFFFF",
-		"PRIMARY_360": "#FFFFFF",
-		"PRIMARY_400": "#FFFFFF",
-		"PRIMARY_500": "#FFFFFF",
-		"PRIMARY_600": "#FFFFFF",
-		"PRIMARY_630": "#FFFFFF",
-		"PRIMARY_700": "#FFFFFF",
-		"PRIMARY_800": "#FFFFFF",
-		"BRAND": "#FFFFFF",
-		"WHITE": "#FFFFFF"
-	},
-	"unsafe_colors": {
-		"CHAT_GREY": "#000000"
+		"PRIMARY_200": "#FFFFFF",
+		"PRIMARY_300": "#B6B6B6",
+		"PRIMARY_360": "#C8C8C8",
+		"PRIMARY_400": "#808080",
+		"PRIMARY_500": "#9279BA",
+		"PRIMARY_600": "#111011",
+		"PRIMARY_630": "#1a1b21",
+		"PRIMARY_700": "#101010",
+		"PRIMARY_800": "#151515",
+		"PLUM_1": "#FFFFFF",
+		"PLUM_10": "#828282",
+		"PLUM_11": "#232223",
+		"PLUM_13": "#554C95",
+		"PLUM_17": "#000000",
+		"PLUM_18": "#111011",
+		"PLUM_19": "#111011",
+		"PLUM_20": "#111011",
+		"PLUM_22": "#111011",
+		"BRAND_260": "#8a94a8",
+		"BRAND_500": "#9279BA",
+		"BRAND_900": "#111011",
+		"BRAND": "#8a94a8",
+		"YELLOW_300": "#ffffff",
+		"GREEN_600": "#ffffff",
+		"DANGER": "#9279BA",
+		"RED": "848484"
+	  },
+	  "unsafe_colors": {
+		"CHAT_GREY": "#111011"
 	}
 }
