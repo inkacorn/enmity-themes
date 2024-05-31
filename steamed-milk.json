@@ -10,8 +10,8 @@
         }
 	],
 	"semanticColors": {
-		"KEYBOARD": ["#000000", "#FFFFFF"],
-		"BACKGROUND_PRIMARY": ["#000000", "#FFFFFF"],
+		"KEYBOARD": ["#645f5b", "#645f5b"],
+		"BACKGROUND_PRIMARY": ["#524e4b", "#524e4b"],
 		"BACKGROUND_SECONDARY": ["#000000", "#FFFFFF"],
 		"BACKGROUND_SECONDARY_ALT": ["#000000", "#FFFFFF"],
 		"BACKGROUND_TERTIARY": ["#000000", "#FFFFFF"],
@@ -41,7 +41,7 @@
 		"PRIMARY_300": "#B6B6B6",
 		"PRIMARY_360": "#C8C8C8",
 		"PRIMARY_400": "#808080",
-		"PRIMARY_500": "#ff0000",
+		"PRIMARY_500": "#dda671",
 		"PRIMARY_600": "#111011",
 		"PRIMARY_630": "#1a1b21",
 		"PRIMARY_700": "#101010",
@@ -56,12 +56,12 @@
 		"PLUM_20": "#111011",
 		"PLUM_22": "#111011",
 		"BRAND_260": "#8a94a8",
-		"BRAND_500": "#00ff00",
+		"BRAND_500": "#dda671",
 		"BRAND_900": "#111011",
 		"BRAND": "#8a94a8",
 		"YELLOW_300": "#ffffff",
 		"GREEN_600": "#ffffff",
-		"DANGER": "#dda671",
+		"DANGER": "#ff0000",
 		"RED": "#848484"
 	  },
 	  "unsafe_colors": {
