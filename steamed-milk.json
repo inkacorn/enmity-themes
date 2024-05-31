@@ -56,12 +56,12 @@
 		"PLUM_20": "#111011",
 		"PLUM_22": "#111011",
 		"BRAND_260": "#8a94a8",
-		"BRAND_500": "#dda671",
+		"BRAND_500": "#00ff00",
 		"BRAND_900": "#111011",
 		"BRAND": "#8a94a8",
 		"YELLOW_300": "#ffffff",
 		"GREEN_600": "#ffffff",
-		"DANGER": "#9279BA",
+		"DANGER": "#dda671",
 		"RED": "#848484"
 	  },
 	  "unsafe_colors": {
